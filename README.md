@@ -10,3 +10,4 @@ Para além da construção do código em Matlab, é feita a análise desses resu
 # Resultados
 
 Deste trabalho resultou o código partilhado neste repositório e o documento "TP3_41383_64960.pdf" onde é explicado (sucintamente) o código e o seu funcionamento.
+Nas pastas "resultados estrutural" e "resultados termico" encontram-se várias imagens dos resultados obtidos. 
